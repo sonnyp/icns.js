@@ -1,0 +1,18 @@
+{
+  "name": "icns",
+  "version": "0.0.0",
+  "description": "Apple Icon Image format (icns) for JavaScript",
+  "scripts": {
+    "lint": "standard",
+    "bundle": "browserify index.js -s icns -o bundle.js",
+    "test": "npm run lint"
+  },
+  "repository": "github:sonnyp/icns.js",
+  "author": "Sonny Piers <sonny@fastmail.net>",
+  "license": "ISC",
+  "bugs": "https://github.com/sonnyp/icns.js/issues",
+  "homepage": "https://github.com/sonnyp/icns.js#readme",
+  "dependencies": {
+    "trim": "0.0.1"
+  }
+}
