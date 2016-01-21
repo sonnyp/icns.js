@@ -11,8 +11,5 @@
   "author": "Sonny Piers <sonny@fastmail.net>",
   "license": "ISC",
   "bugs": "https://github.com/sonnyp/icns.js/issues",
-  "homepage": "https://github.com/sonnyp/icns.js#readme",
-  "dependencies": {
-    "trim": "0.0.1"
-  }
+  "homepage": "https://github.com/sonnyp/icns.js#readme"
 }

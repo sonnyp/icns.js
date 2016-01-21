@@ -1,0 +1,10 @@
+#!/usr/bin/env node
+
+var icns = require('../index')
+var fs = require('fs')
+var path = process.argv.slice(2)[0]
+if (!path) throw new Error('path missing')
+
+var parsed = icns.parse(fs.readFileSync(path))
+console.log(JSON.stringify(parsed, 2))
+//
