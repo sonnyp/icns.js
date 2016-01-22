@@ -1,6 +1,6 @@
 {
   "name": "icns",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Apple Icon Image format (icns) for JavaScript",
   "scripts": {
     "lint": "standard",
