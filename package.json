@@ -5,7 +5,8 @@
   "scripts": {
     "lint": "standard",
     "bundle": "browserify index.js -s icns -o bundle.js",
-    "test": "npm run lint"
+    "test": "npm run lint && npm run bundle",
+    "doc": "documentation -f md -o doc --github"
   },
   "repository": "github:sonnyp/icns.js",
   "author": "Sonny Piers <sonny@fastmail.net>",

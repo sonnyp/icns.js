@@ -129,66 +129,77 @@
     "length": 0,
     "size": 16,
     "OS": "10.7",
+    "modern": true,
     "description": "16x16 icon in JPEG 2000 or PNG format"
   },
   "icp5": {
     "length": 0,
     "size": 32,
     "OS": "10.7",
+    "modern": true,
     "description": "32x32 icon in JPEG 2000 or PNG format"
   },
   "icp6": {
     "length": 0,
     "size": 64,
     "OS": "10.7",
+    "modern": true,
     "description": "64x64 icon in JPEG 2000 or PNG format"
   },
   "ic07": {
     "length": 0,
     "size": 128,
     "OS": "10.7",
+    "modern": true,
     "description": "128x128 icon in JPEG 2000 or PNG format"
   },
   "ic08": {
     "length": 0,
     "size": 256,
     "OS": "10.5",
+    "modern": true,
     "description": "256×256 icon in JPEG 2000 or PNG format"
   },
   "ic09": {
     "length": 0,
     "size": 512,
     "OS": "10.5",
+    "modern": true,
     "description": "512×512 icon in JPEG 2000 or PNG format"
   },
   "ic10": {
     "length": 0,
     "size": 1024,
     "OS": "10.7",
+    "modern": true,
     "description": "1024×1024 in 10.7 (or 512x512@2x \"retina\" in 10.8) icon in JPEG 2000 or PNG format"
   },
   "ic11": {
     "length": 0,
     "size": 32,
     "OS": "10.8",
+    "modern": true,
     "description": "16x16@2x \"retina\" icon in JPEG 2000 or PNG format"
   },
   "ic12": {
     "length": 0,
     "size": 64,
     "OS": "10.8",
+    "modern": true,
     "description": "32x32@2x \"retina\" icon in JPEG 2000 or PNG format"
   },
   "ic13": {
     "length": 0,
     "size": 256,
     "OS": "10.8",
+    "modern": true,
     "description": "128x128@2x \"retina\" icon in JPEG 2000 or PNG format"
   },
   "ic14": {
     "length": 0,
     "size": 512,
     "OS": "10.8",
+    "modern": true,
     "description": "256x256@2x \"retina\" icon in JPEG 2000 or PNG format"
   }
 }
