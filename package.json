@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "description": "Apple Icon Image format (icns) for JavaScript",
   "scripts": {
+    "preversion": "npm run test",
     "lint": "standard",
     "bundle": "browserify index.js -s icns -o bundle.js",
     "test": "npm run lint && npm run bundle",
