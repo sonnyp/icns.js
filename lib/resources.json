@@ -1,4 +1,15 @@
 {
+  "icnV": {
+    "length": 4,
+    "size": 0,
+    "description": "4-byte big endian float - equal to the bundle version number of Icon Composer.app that created to icon"
+  },
+  "TOC ": {
+    "length": 0,
+    "size": 0,
+    "OS": "10.7",
+    "description": "\"Table of Contents\" a list of all image types in the file, and their sizes (added in Mac OS X 10.7)"
+  },
   "ICON": {
     "length": 128,
     "size": 32,
